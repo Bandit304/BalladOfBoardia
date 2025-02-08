@@ -1,0 +1,4 @@
+*.uasset filter=lfs diff=lfs merge=lfs -text
+Content/RealMaterials/Textures/T_grass_spotty_D.uasset filter=lfs diff=lfs merge=lfs -text
+Content/RealMaterials/Textures/T_marble_white_D.uasset filter=lfs diff=lfs merge=lfs -text
+Content/RealMaterials/Textures/T_wood_boards_unplaned_1_N.uasset filter=lfs diff=lfs merge=lfs -text
